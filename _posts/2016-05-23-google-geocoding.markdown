@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Blank Spot in Google Geocoding API"
+date:   2016-05-23 21:21:45 +0200
+categories: 
+---
 Apparently, there are territories that are not served by Google Map Geocoding API, eventhough they looks to have addresses on Google Map. For example, if I query the following coordinates:
 lat:42.6475  lon:21.1795 (Kosovo)
 lat:42.6575  lon:20.2895 (Kosovo)
